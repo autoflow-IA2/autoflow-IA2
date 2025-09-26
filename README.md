@@ -2,13 +2,13 @@
 Bem-vindo ao meu perfil no GitHub! Sou Yuri Souza, desenvolvedor especializado em automação e desenvolvimento web. Trabalho profissionalmente com n8n criando soluções de automação de processos e fluxos de trabalho, sempre em busca de aprender novas tecnologias e colaborar em projetos inovadores.
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-🚀 Sobre Mim
+## 🚀 Sobre Mim
 
-🔧 Desenvolvedor de Automação com n8n profissionalmente
-💻 Desenvolvedor Web em constante evolução
-🎯 Especialista em criação de workflows e integrações
-🤝 Sempre aberto para colaborações em projetos desafiadores
-📈 Focado em otimização de processos e soluções automatizadas
+- 🔧 Desenvolvedor de Automação com n8n profissionalmente
+- 💻 Desenvolvedor Web em constante evolução
+- 🎯 Especialista em criação de workflows e integrações
+- 🤝 Sempre aberto para colaborações em projetos desafiadores
+- 📈 Focado em otimização de processos e soluções automatizadas
 
 ## 💼 Especialidades
 #### Automação & Workflows:
